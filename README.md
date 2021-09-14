@@ -1,4 +1,7 @@
 # Playground
+CS171
+FOLKMYTH111
+CS107
 
 A place to play with `git`.
 
