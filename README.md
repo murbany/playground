@@ -1,6 +1,5 @@
 # Playground
 Max Urbany
-G1
 
 CS171
 FOLKMYTH111
